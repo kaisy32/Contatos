@@ -1,4 +1,4 @@
 # Instalar Dependencias
-### `npm install express body-parser mongodb`
+### `npm install`
 # Iniciar projeto
 ### `npm run main.js`
